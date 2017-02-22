@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-  <file source-language="en" datatype="plaintext" original="messages" product-name="hairu">
+  <file source-language="en" target-language="de" datatype="plaintext" original="messages" product-name="hairu">
     <header/>
     <body>
 
       <trans-unit id="username">
-        <source>Username</source>
+        <source>Benutzername</source>
       </trans-unit>
 
       <trans-unit id="password">
-        <source>Password</source>
+        <source>Passwort</source>
       </trans-unit>
 
       <trans-unit id="passwordRepeat">
-        <source>Repeat password</source>
+        <source>Passwort zurücksetzen</source>
       </trans-unit>
 
       <trans-unit id="action.login">
-        <source>Log in</source>
+        <source>Anmelden</source>
       </trans-unit>
 
       <trans-unit id="action.backToLogin">
-        <source>Back to login</source>
+        <source>Zurück zur Anmeldung</source>
       </trans-unit>
 
       <trans-unit id="action.logout">
-        <source>Log out</source>
+        <source>Abmelden</source>
       </trans-unit>
 
       <trans-unit id="action.resetPassword">
@@ -33,24 +33,24 @@
       </trans-unit>
 
       <trans-unit id="action.changePassword">
-        <source>Change password</source>
+        <source>Passwort ändern</source>
       </trans-unit>
 
       <trans-unit id="login.failed">
-        <source><![CDATA[<b>Login failure</b><br>
+        <source><![CDATA[<b>Fehler bei der Anmeldung</b><br>
 Most likely you didn't enter the username or password correctly. Be certain that you enter them precisely as they are, including upper/lower case. Another possibility is that cookies might be disabled in your web browser.]]></source>
       </trans-unit>
 
       <trans-unit id="login.successful">
-        <source><![CDATA[You are now logged in as <b>%s</b>.]]></source>
+        <source><![CDATA[Du bist nun als <b>%s</b> angemeldet.]]></source>
       </trans-unit>
 
       <trans-unit id="login.status">
-        <source>Currently logged in as:</source>
+        <source>Momentan angemeldet als:</source>
       </trans-unit>
 
       <trans-unit id="logout.successful">
-        <source>You just logged out from your session on this website.</source>
+        <source>Du hast Dich gerade auf dieser Seite abgemeldet.</source>
       </trans-unit>
 
       <trans-unit id="resetPassword.start">
